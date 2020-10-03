@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">latihan_activity</string>
+    <string name="panjang">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">hasil</string>
+    <string name="lebar">lebar</string>
+</resources>
